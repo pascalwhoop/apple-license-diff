@@ -20,8 +20,8 @@ following definitions apply:
 (a)
 “You” shall include App Store Connect users authorized by You to submit Licensed Applications and
 associated metadata on Your behalf; and
-(b)
 "End-User" includes individual purchasers as well as eligible users associated with their account via
+(b)
 Family Sharing or Legacy Contacts. For institutional customers, “End-User” shall mean the individual
 authorized to use the Licensed Application by the institutional purchaser, the institutional administrator
 responsible for management of installations on shared devices, as well as authorized institutional purchasers
@@ -55,8 +55,8 @@ associated information and metadata stored in iCloud as described in https://sup
 and (iii) a single institutional customer via the Volume Content Service for use by its End-Users and/or for
 installation on devices with no associated Apple IDs that are owned or controlled by that institutional customer
 in accordance with the Volume Content Terms, conditions, and program requirements;
-v122
-25 February 2022
+v123
+28 August 2023
 
 (e)
 
@@ -119,11 +119,11 @@ enhance search and discovery of content on Apple-branded hardware.
 2.2
 All Licensed Applications will be delivered by You to Apple using software tools, a secure FTP site
 address and/or such other delivery methods as prescribed by Apple.
-v122
-25 February 2022
+v123
+28 August 2023
 
-2.3
-You hereby certify that all of the Licensed Applications You deliver to Apple under this Schedule 2 are
+You hereby certify that all of the Licensed Applications You deliver to Apple under this Schedule 2 are
+2.3
 authorized for export from the United States to each of the regions listed on Exhibit A, in accordance with the
 requirements of all applicable laws, including but not limited to the United States Export Administration
 Regulations, 15 C.F.R. Parts 730-774. You further represent and warrant that all versions of the Licensed
@@ -180,8 +180,8 @@ sales of Licensed Applications after Apple has processed the adjustment within a
 Adjustments that You make to the tax categorization for Your Licensed Applications will not apply to any sales
 of Licensed Applications occurring before Apple has processed Your tax categorization adjustment.
 
-v122
-25 February 2022
+v123
+28 August 2023
 
 If the tax categorization of Your Licensed Applications is deemed to be inaccurate by any tax authority, You are
 solely responsible for the tax consequences. If Apple deems in its reasonable discretion that the tax
@@ -241,8 +241,8 @@ have an Associated Developer Account if any of the following apply:
 
 You have majority (over 50%) corporate, individual, or partnership interest in the ownership or shares of
 another Apple Developer Program member account.
-v122
-25 February 2022
+v123
+28 August 2023
 
 •
 •
@@ -298,8 +298,8 @@ the end of each monthly period, Apple will make available to You on the App Stor
 in sufficient detail to permit You to identify the Licensed Applications sold in that monthly period and the total
 amount to be remitted to You by Apple. You hereby acknowledge and agree that Apple shall be entitled to a
 commission, in accordance with this Section 3.5 on the delivery of any Licensed Application to any End-User,
-v122
-25 February 2022
+v123
+28 August 2023
 
 even if Apple is unable to collect the price for that Licensed Application from that End-User. In the event that
 the purchase price received by Apple from any End-User for any Licensed Application is in a currency other
@@ -361,8 +361,8 @@ Links to Your Privacy Policy and Terms of Use must be accessible within Your Lic
 You must fulfill the offer during the entire subscription period, as marketed, including any Billing Grace
 Period You authorize, and, in the event You breach this section 3.8(c) of Schedule 2, You hereby authorize
 and instruct Apple to refund to the End-User the full amount, or any portion thereof in Apple’s sole discretion, of
-v122
-25 February 2022
+v123
+28 August 2023
 
 the price paid by the End-User for that subscription. Billing Grace Period refers to the period during which
 Developers agree to provide paid service for free to users who do not recover from a billing error. In the event
@@ -417,8 +417,8 @@ You shall not sell the Subscription Offer Codes or accept any form of payment, t
 compensation in connection with the distribution of the Subscription Offer Codes and You shall prohibit third
 parties from doing so.
 
-v122
-25 February 2022
+v123
+28 August 2023
 
 During the period when a Subscription Offer Code allows an End-User to access a subscription in Your
 Licensed Application for free, You hereby waive any right to collect any royalties, proceeds, or remuneration
@@ -476,8 +476,8 @@ to this Schedule 2, and must comply with all applicable laws in all regions wher
 at the time that Apple delivers that Licensed Application to that End-User, and Apple shall notify each End-User
 that the End-User’s use of that Licensed Application is subject to the terms and conditions of Your EULA (if
 any). In the event that You do not furnish Your own EULA for any Licensed Application to Apple, You
-v122
-25 February 2022
+v123
+28 August 2023
 
 acknowledge and agree that each End-User’s use of that Licensed Application shall be subject to Apple’s
 standard EULA (which is part of the App Store Terms of Service).
@@ -540,8 +540,8 @@ Responsibility and Liability
 Apple shall have no responsibility for the installation and/or use of any of the Licensed Applications by
 any End-User. You shall be solely responsible for any and all product warranties, End-User assistance and
 product support with respect to each of the Licensed Applications.
-v122
-25 February 2022
+v123
+28 August 2023
 
 6.2
 You shall be solely responsible for, and Apple shall have no responsibility or liability whatsoever with
@@ -590,24 +590,24 @@ Apple reserves the right to cease marketing, offering, and allowing download by 
 Licensed Applications at any time, with or without cause, by providing notice of termination to You. Without
 limiting the generality of this Section 7.3, You acknowledge that Apple may cease the marketing and allowing
 download by End-Users of some or all of the Licensed Applications, or take other interim measures in Apple’s
-sole discretion, if Apple reasonably believes that: (i) those Licensed Applications are not authorized for export
-to one or more of the regions listed on Exhibit A, in accordance with the Export Administration Regulations or
-other restrictions; (ii) those Licensed Applications and/or any End-User’s possession and/or use of those
-Licensed Applications, infringe patent, copyright, trademark, trade secret or other intellectual property rights of
-any third party; (iii) the distribution, sale and/or use of those Licensed Applications violates any applicable law
-in any region You designated under Section 2.1 of this Schedule 2; (iv) You have violated the terms of the
-Agreement, this Schedule 2, or other documentation including without limitation the App Store Review
-Guidelines; (v) Your Licensed Applications violate Section 5.4 of this Schedule 2, including without limitation
-upon notice by a regulator of an alleged violation; or (vi) You or anyone representing You or Your company are
-subject to sanctions of any region in which Apple operates. An election by Apple to cease the marketing and
-allowing download of any Licensed Applications, pursuant to this Section 7.3, shall not relieve You of Your
-obligations under this Schedule 2.
+sole discretion, if Apple reasonably believes, based on human and/or systematic review, and, including without
+limitation upon notice received under applicable laws, that: (i) those Licensed Applications are not authorized
+for export to one or more of the regions listed on Exhibit A, in accordance with the Export Administration
+Regulations or other restrictions; (ii) those Licensed Applications and/or any End-User’s possession and/or use
+of those Licensed Applications, infringe patent, copyright, trademark, trade secret or other intellectual property
+rights of any third party; (iii) the distribution, sale and/or use of those Licensed Applications violates any
+applicable law in any region You designated under Section 2.1 of this Schedule 2; (iv) You have violated the
+terms of the Agreement, this Schedule 2, or other documentation including without limitation the App Store
+Review Guidelines; (v) Your Licensed Applications violate Section 5.4 of this Schedule 2, including without
+limitation upon notice by a regulator of an alleged violation; or (vi) You or anyone representing You or Your
+company are subject to sanctions of any region in which Apple operates. An election by Apple to cease the
+marketing and allowing download of any Licensed Applications, pursuant to this Section 7.3, shall not relieve
+You of Your obligations under this Schedule 2.
+v123
+28 August 2023
 
-v122
-25 February 2022
-
-7.4
-You may withdraw any or all of the Licensed Applications from the App Store, at any time, and for any
+You may withdraw any or all of the Licensed Applications from the App Store, at any time, and for any
+7.4
 reason, by using the tools provided on the App Store Connect site, except that, with respect to Your EndUsers, You hereby authorize and instruct Apple to fulfill sections 1.2(b), (c), and (d) of this Schedule 2, which
 shall survive termination or expiration of the Agreement unless You indicate otherwise pursuant to sections 5.1
 and 7.2 of this Schedule 2.
@@ -619,8 +619,8 @@ The relationship between You and Apple established by this Schedule 2 may have i
 consequences for You. You acknowledge and agree that it is Your responsibility to consult with Your own legal
 and tax advisors with respect to Your legal and tax obligations hereunder.
 
-v122
-25 February 2022
+v123
+28 August 2023
 
 By clicking to agree to this Schedule 3, which is hereby offered to You by Apple, You agree with Apple to
 amend that certain Apple Developer Program License Agreement currently in effect between You and Apple
@@ -671,8 +671,8 @@ instruct Apple to:
 (a)
 market, solicit, and obtain orders on Your behalf for Custom Applications from Custom App Distribution
 Customers identified by You and their related End-Users in the regions identified in the App Store Connect tool;
-v122
-25 February 2022
+v123
+28 August 2023
 
 (b)
 provide hosting services to You, in order to allow for the storage of, and End-User access to, the
@@ -681,8 +681,8 @@ such Custom Applications;
 (c)
 make copies of, format, and otherwise prepare Custom Applications for acquisition and download by
 End-Users, including adding the Security Solution and other optimizations identified in the Agreement;
-(d)
-allow or, in the case of cross-border assignments of Volume Content purchases, arrange for EndUsers to access and re-access copies of the Custom Applications, so that End-Users may acquire and
+allow or, in the case of cross-border assignments of Volume Content purchases, arrange for End(d)
+Users to access and re-access copies of the Custom Applications, so that End-Users may acquire and
 electronically download those Custom Applications developed by You, Licensed Application Information, and
 associated metadata to End-Users through the Custom App Distribution Site. In addition, You hereby authorize
 distribution of Your Custom Applications under this Schedule 3 for use by: (i) multiple End-Users when the
@@ -733,8 +733,8 @@ Delivery of the Custom Applications to Apple
 You will deliver to Apple, at Your sole expense, using the App Store Connect tool, the Custom
 Applications, Licensed Application Information and associated metadata, in a format and manner prescribed by
 Apple, as required for the delivery of the Custom Applications to End-Users in accordance with this Schedule 3
-v122
-25 February 2022
+v123
+28 August 2023
 
 and will identify this material as a Custom Application via the App Store Connect site. Metadata You deliver to
 Apple under this Schedule 3 will include: (i) the title and version number of each of the Custom Applications; (ii)
@@ -795,8 +795,8 @@ applicable law, responsibility for the collection and remittance of that tax for
 End-Users will be determined in accordance with Exhibit B to this Schedule 3 as updated from time to time via
 the App Store Connect site. You are solely responsible for selecting and maintaining accurate inputs for tax
 categorization for Your Custom Applications via the App Store Connect site, which may be updated from time
-v122
-25 February 2022
+v123
+28 August 2023
 
 to time. Such tax categorization will be applied to the sale and delivery of Your Custom Applications. Any
 adjustments that You make to the tax categorization for Your Custom Applications will take effect for future
@@ -853,8 +853,8 @@ including the following: remittance payments (i) are made by means of wire trans
 minimum monthly remittance amount thresholds; (iii) require You to provide certain remittance-related
 information on the App Store Connect site; and (iv) subject to the foregoing requirements, will be made no later
 than forty-five (45) days following the close of the monthly period in which the corresponding amount was
-v122
-25 February 2022
+v123
+28 August 2023
 
 received by Apple from the End-User. No later than forty-five (45) days following the end of each monthly
 period, Apple will make available to You on the App Store Connect site a sales report in sufficient detail to
@@ -915,8 +915,8 @@ Price of subscription, and price per unit if appropriate
 Links to Your Privacy Policy and Terms of Use must be accessible within Your Licensed Application or
 Custom Application.
 
-v122
-25 February 2022
+v123
+28 August 2023
 
 (c)
 You must fulfill the offer during the entire subscription period, as marketed, including any Billing Grace
@@ -977,8 +977,8 @@ and the End-User and conforms to applicable law, and Apple shall not be responsi
 any liability whatsoever under, any EULA or any breach by You or any End-User of any of the terms and
 conditions of any EULA.
 
-v122
-25 February 2022
+v123
+28 August 2023
 
 5.
 
@@ -1040,8 +1040,8 @@ You shall be solely responsible for, and Apple shall have no responsibility or l
 respect to, any and all claims, suits, liabilities, losses, damages, costs and expenses arising from, or
 attributable to, the Custom Applications and/or the use of those Custom Applications by any End-User,
 including, but not limited to: (i) claims of breach of warranty, whether specified in the EULA or established
-v122
-25 February 2022
+v123
+28 August 2023
 
 under applicable law; (ii) product liability claims; and (iii) claims that any of the Custom Applications and/or the
 End-User’s possession or use of those Custom Applications infringes the copyright or other intellectual property
@@ -1087,26 +1087,27 @@ Apple reserves the right to cease marketing, offering, and allowing purchase by 
 Distribution Customers and download by End-Users of the Custom Applications at any time, with or without
 cause, by providing notice of termination to You. Without limiting the generality of this Section 7.3, You
 acknowledge that Apple may cease the marketing and allowing download by End-Users of some or all of the
-Custom Applications if Apple reasonably believes that: (i) those Custom Applications are not authorized for
-export to one or more of the regions listed on Exhibit A, in accordance with the Export Administration
-Regulations or other restrictions; (ii) those Custom Applications and/or any End-User’s possession and/or use
-of those Custom Applications, infringe patent, copyright, trademark, trade secret or other intellectual property
-rights of any third party; (iii) the distribution, sale and/or use of those Custom Applications violates any
-applicable law in any region You designated pursuant to Section 2.1 of this Schedule 3; (iv) You have violated
-the terms of the Agreement, this Schedule 3, or other documentation including without limitation the App Store
-Review Guidelines; (v) Your Custom Applications violate Section 5.4 of this Schedule 3, including without
-limitation upon notice by a regulator of an alleged violation; or (vi) You or anyone representing You or Your
-company are subject to sanctions of any region in which Apple operates. An election by Apple to cease the
-marketing and allowing download of any Custom Applications, pursuant to this Section 7.3, shall not relieve
-You of Your obligations under this Schedule 3.
+Custom Applications if Apple reasonably believes, based on human and/or systematic review, and, including
+without limitation upon notice received under applicable laws, that: (i) those Custom Applications are not
+authorized for export to one or more of the regions listed on Exhibit A, in accordance with the Export
+Administration Regulations or other restrictions; (ii) those Custom Applications and/or any End-User’s
+possession and/or use of those Custom Applications, infringe patent, copyright, trademark, trade secret or
+other intellectual property rights of any third party; (iii) the distribution, sale and/or use of those Custom
+Applications violates any applicable law in any region You designated pursuant to Section 2.1 of this Schedule
+3; (iv) You have violated the terms of the Agreement, this Schedule 3, or other documentation including without
+limitation the App Store Review Guidelines; (v) Your Custom Applications violate Section 5.4 of this Schedule
+3, including without limitation upon notice by a regulator of an alleged violation; or (vi) You or anyone
+representing You or Your company are subject to sanctions of any region in which Apple operates. An election
+by Apple to cease the marketing and allowing download of any Custom Applications, pursuant to this Section
+7.3, shall not relieve You of Your obligations under this Schedule 3.
 7.4
 You may withdraw any or all of the Custom Applications from the Custom App Distribution Site, at any
 time, and for any reason, by using the tools provided on the App Store Connect site, except that, with respect
-to Your End-Users, You hereby authorize and instruct Apple to fulfill any outstanding Content Code redemption
-v122
-25 February 2022
+v123
+28 August 2023
 
-requests by End-Users and to fulfill sections 1.2(b), (c), and (d) of this Schedule 3, which shall survive
+to Your End-Users, You hereby authorize and instruct Apple to fulfill any outstanding Content Code redemption
+requests by End-Users and to fulfill sections 1.2(b), (c), and (d) of this Schedule 3, which shall survive
 termination or expiration of the Agreement unless You indicate otherwise pursuant to sections 5.1 and 7.2 of
 this Schedule 3.
 8.
@@ -1117,7 +1118,7 @@ The relationship between You and Apple established by this Schedule 3 may have i
 consequences for You. You acknowledge and agree that it is Your responsibility to consult with Your own legal
 and tax advisors with respect to Your legal and tax obligations hereunder.
 
-v122
-25 February 2022
+v123
+28 August 2023
 
 
